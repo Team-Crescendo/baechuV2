@@ -4,7 +4,7 @@
 
 ### 외부링크
 [팀 크레센도 홈페이지](https://kimshhoe1.wixsite.com/teamcrescendo/cabbagebot2)  
-[팀 크레센도 디스코드](https://discord.gg/CFBNzu3)  
+[팀 크레센도 디스코드](https://kimshhoe1.wixsite.com/teamcrescendo/discord)  
 [팀 크레센도 카페](https://cafe.naver.com/teamcrescendocafe)
 
 ### 개발자
