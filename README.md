@@ -2,6 +2,9 @@
 # 배추봇v2 - 마이웨이 디스코드 봇
 배추봇은 팀 크레센도에서 제작하고 운영하는 질문답변/RPG게임 디스코드 봇입니다.
 
+### 봇 문서
+[마이펫](https://github.com/Team-Crescendo/baechuV2/blob/master/mypet/README.md)
+
 ### 외부링크
 [팀 크레센도 홈페이지](https://kimshhoe1.wixsite.com/teamcrescendo/cabbagebot2)  
 [팀 크레센도 디스코드](https://kimshhoe1.wixsite.com/teamcrescendo/discord)  
